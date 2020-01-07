@@ -161,7 +161,7 @@ html .intro img,
 body .intro img {
   width: 130%;
   height: 130%;
-  border-radius: 50%;
+  border-radius: 10%;
   border: 1px solid midnightblue;
   margin: 3% 2% 3% 2%;
 }
