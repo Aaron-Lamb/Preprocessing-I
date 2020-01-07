@@ -134,4 +134,13 @@ html,
 body {
   height: 100%;
   font-family: 'Playfair Display', serif;
+  background-color: honeydew;
+}
+nav {
+  display: flex;
+}
+nav a {
+  margin: 2%;
+  color: black;
+  text-decoration: none;
 }
