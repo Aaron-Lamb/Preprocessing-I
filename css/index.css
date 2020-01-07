@@ -221,20 +221,17 @@ body .shutter {
 }
 html .Contact,
 body .Contact {
-  display: flex;
-  flex-direction: column;
-  align-content: center;
   margin-bottom: 3%;
 }
 html .Contact h3,
 body .Contact h3 {
-  font-size: 170%;
-  margin-left: 3%;
+  font-size: 240%;
+  margin-left: 33%;
 }
 html .Contact p,
 body .Contact p {
-  font-size: 110%;
-  margin: 1% 0% 0% 3%;
+  font-size: 190%;
+  margin: 1% 0% 0% 33%;
 }
 @media (max-width: 500px) {
   html .boxborder,
