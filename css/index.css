@@ -233,6 +233,12 @@ body .Contact p {
   font-size: 190%;
   margin: 1% 0% 0% 33%;
 }
+html .Contact a:hover,
+body .Contact a:hover {
+  color: darkcyan;
+  border: 1px solid darkcyan;
+  transition: border 1s;
+}
 @media (max-width: 500px) {
   html .boxborder,
   body .boxborder {
