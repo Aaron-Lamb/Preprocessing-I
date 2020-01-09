@@ -313,6 +313,7 @@ body .Contact p {
   body html .intro .Introduction h1,
   html body .intro .Introduction h1,
   body body .intro .Introduction h1 {
+    font-family: Helvetica, sans-serif;
     font-size: 190%;
     margin-top: 18%;
     margin-bottom: 4%;
@@ -358,6 +359,7 @@ body .Contact p {
   body html .SkillsandExperience h3,
   html body .SkillsandExperience h3,
   body body .SkillsandExperience h3 {
+    font-family: Helvetica, sans-serif;
     font-size: 120%;
     font-style: solid;
   }
@@ -386,6 +388,7 @@ body .Contact p {
   body html .Contact h3,
   html body .Contact h3,
   body body .Contact h3 {
+    font-family: Helvetica, sans-serif;
     font-size: 170%;
     margin-left: 3%;
   }
