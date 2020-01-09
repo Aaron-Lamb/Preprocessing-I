@@ -284,7 +284,7 @@ body .Contact p {
     color: darkcyan;
     border: 1px solid darkcyan;
     border-radius: 10%;
-    padding: 1%;
+    padding: 0.2% 1% 0.2% 1%;
     transition: border 1s;
   }
   html html .intro,
